@@ -1,0 +1,8 @@
+fix delete.php
+add autorisathion - where admin can CRUD, user can't
+user can view books, add favs, rate from 1 to 5 in books rate system
+add page for authors where u can see all books related to the name
+add search bar
+add crowdfunding for AFU
+change view for books - add language and format and book cover
+add 404 page
